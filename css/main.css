@@ -341,6 +341,7 @@ select {
     right: 20px;
     padding: 5px 10px;
     z-index: 100;
+    opacity: 0.5;
 }
 #top:hover{
     border:none;
