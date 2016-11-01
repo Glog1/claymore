@@ -80,6 +80,11 @@
 .people_say {
   text-align: center;
 }
+  #top{
+      font-size: 35px;
+      padding: 5px 8px;
+  }
+}
 }
 
 /* Custom, iPhone Retina */
